@@ -1,0 +1,87 @@
+#seccion1{
+	margin-top: 50px;
+}
+
+#registrate{
+    color: white;
+    margin-top: 50px;
+    float: left;
+    font-size: 30px;
+    background-color: black;
+    border:20px black;
+   height:50px;
+   padding-bottom: 10px;
+   margin-bottom: 30px;
+
+ }
+
+#Ingreso{
+    text-align: center;
+    float: left;
+    color:#777;
+}
+
+#btnIngresar{
+    background-color: black;
+}
+
+.cuadroIn
+{
+   width:90%;
+   margin: auto;
+   border: 1px #CCC solid padding:3px; 
+   text-align: left;
+   font-size: 12px;
+   letter-spacing: 2px;
+   font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.cuadroFrm{
+    width: 100%;
+    height: 40%;
+    margin: auto;
+    color:black;
+    border: 3px #CCC solid; 
+    padding: 20px;
+}
+
+#infregis{
+    font-size: 1em;
+    color: black;
+    text-align: center;
+
+}
+#titulo_registrate{
+    text-align: center;
+    font-size: 2.8em;
+    display: auto;
+    color:#F5B7B1;
+}
+
+.bg
+{
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../background.jpg);
+}
+
+.form-cons
+{
+    background-color: aquamarine;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+
+#myInput
+{
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
